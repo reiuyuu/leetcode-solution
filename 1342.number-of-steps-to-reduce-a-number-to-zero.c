@@ -1,6 +1,6 @@
 
 
-int numberOfSteps(int num){
+int numberOfSteps(int num) {
     
     int steps = 0;
     

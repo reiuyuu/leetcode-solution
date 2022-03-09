@@ -4,8 +4,8 @@ void revStr(char *str, int len);
 
 char * reversePrefix(char * word, char ch) {
     
-    int len = 0;
     char *p = word;
+    int len = 0;
         
     while (*p) {
         

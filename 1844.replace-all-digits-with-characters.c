@@ -1,12 +1,4 @@
-#include <stdio.h>
 
-char * replaceDigits(char * s);
-
-int main() {
-
-    char *s = "a1b2c3d4e";
-    replaceDigits(s);
-}
 
 char * replaceDigits(char * s) {
     
